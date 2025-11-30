@@ -213,7 +213,7 @@ Use these questions in preparing for calls and use them as examples for developi
 
 | Question | Pain Revealed | PostHog Advantage |
 | --- | --- | --- |
-| When an error occurs, how easy is it for you to see exactly which user actions led up to it and how it affected the experience? | Debugging relies often relies on reproducing error | Error Tracking tied directly to replays makes root cause and impact obvious. |
+| When an error occurs, how easy is it for you to see exactly which user actions led up to it and how it affected the experience? | Debugging often relies on reproducing errors. | Error Tracking tied directly to replays makes root cause and impact obvious. |
 | If you’ve built your own error tracking, how much effort goes into maintaining and correlating it with analytics? | Time wasted maintaining infra, blind spots in analysis. | Lightweight SDK that's tightly integrated with other products. |
 | How do you decide which errors to fix first? | Prioritizing by gut feeling or frequency, not business impact. | Error Tracking + Product & Revenue Analytics can show which errors have the greatest impact. |
 
